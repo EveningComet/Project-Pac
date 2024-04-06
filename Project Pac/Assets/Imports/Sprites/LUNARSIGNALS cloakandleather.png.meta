@@ -1,0 +1,1115 @@
+fileFormatVersion: 2
+guid: c338afdea2f580aaa89283b4d1d53a4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1083810498472024892
+    second: LUNARSIGNALS cloakandleather_0
+  - first:
+      213: 6401823591574266961
+    second: LUNARSIGNALS cloakandleather_1
+  - first:
+      213: -1896546793550603334
+    second: LUNARSIGNALS cloakandleather_2
+  - first:
+      213: 3057994678410046358
+    second: LUNARSIGNALS cloakandleather_3
+  - first:
+      213: 7715861142450793748
+    second: LUNARSIGNALS cloakandleather_4
+  - first:
+      213: -3656188261377962462
+    second: LUNARSIGNALS cloakandleather_5
+  - first:
+      213: 2485681038637315199
+    second: LUNARSIGNALS cloakandleather_6
+  - first:
+      213: -7234564962542077952
+    second: LUNARSIGNALS cloakandleather_7
+  - first:
+      213: 1386382208710381360
+    second: LUNARSIGNALS cloakandleather_8
+  - first:
+      213: 510459694856028876
+    second: LUNARSIGNALS cloakandleather_9
+  - first:
+      213: 7766029510427634198
+    second: LUNARSIGNALS cloakandleather_10
+  - first:
+      213: -4599985994446126325
+    second: LUNARSIGNALS cloakandleather_11
+  - first:
+      213: 6751345830703221176
+    second: LUNARSIGNALS cloakandleather_12
+  - first:
+      213: -7959079670518750893
+    second: LUNARSIGNALS cloakandleather_13
+  - first:
+      213: -8175930049519582882
+    second: LUNARSIGNALS cloakandleather_14
+  - first:
+      213: 132450831430952557
+    second: LUNARSIGNALS cloakandleather_15
+  - first:
+      213: 361676973867022261
+    second: LUNARSIGNALS cloakandleather_16
+  - first:
+      213: -5507243698274413726
+    second: LUNARSIGNALS cloakandleather_17
+  - first:
+      213: 2803992924720735246
+    second: LUNARSIGNALS cloakandleather_18
+  - first:
+      213: 1487758702880896503
+    second: LUNARSIGNALS cloakandleather_19
+  - first:
+      213: 4233771003782681954
+    second: LUNARSIGNALS cloakandleather_20
+  - first:
+      213: 3781139946648910567
+    second: LUNARSIGNALS cloakandleather_21
+  - first:
+      213: -7294293503619974595
+    second: LUNARSIGNALS cloakandleather_22
+  - first:
+      213: 5437555055916140638
+    second: LUNARSIGNALS cloakandleather_23
+  - first:
+      213: 3672821304323992744
+    second: LUNARSIGNALS cloakandleather_24
+  - first:
+      213: 3756315122448525079
+    second: LUNARSIGNALS cloakandleather_25
+  - first:
+      213: -3099194502695064321
+    second: LUNARSIGNALS cloakandleather_26
+  - first:
+      213: -7616068453082574312
+    second: LUNARSIGNALS cloakandleather_27
+  - first:
+      213: -9092686934308250515
+    second: LUNARSIGNALS cloakandleather_28
+  - first:
+      213: 3615218070735094423
+    second: LUNARSIGNALS cloakandleather_29
+  - first:
+      213: 2174931737007385849
+    second: LUNARSIGNALS cloakandleather_30
+  - first:
+      213: -2944787643997559977
+    second: LUNARSIGNALS cloakandleather_31
+  - first:
+      213: 2814169499604438604
+    second: LUNARSIGNALS cloakandleather_32
+  - first:
+      213: -9150333909891853712
+    second: LUNARSIGNALS cloakandleather_33
+  - first:
+      213: 939259083097005923
+    second: LUNARSIGNALS cloakandleather_34
+  - first:
+      213: -2479138263607112946
+    second: LUNARSIGNALS cloakandleather_35
+  - first:
+      213: 5181079008445792593
+    second: LUNARSIGNALS cloakandleather_36
+  - first:
+      213: -7407170925600051428
+    second: LUNARSIGNALS cloakandleather_37
+  - first:
+      213: -7276831067981848702
+    second: LUNARSIGNALS cloakandleather_38
+  - first:
+      213: -8555881664415812780
+    second: LUNARSIGNALS cloakandleather_39
+  - first:
+      213: -4300443848490404861
+    second: LUNARSIGNALS cloakandleather_40
+  - first:
+      213: 8566937168519015419
+    second: LUNARSIGNALS cloakandleather_41
+  - first:
+      213: 8203257888551966906
+    second: LUNARSIGNALS cloakandleather_42
+  - first:
+      213: 7690706284309393964
+    second: LUNARSIGNALS cloakandleather_43
+  - first:
+      213: 6535710103920824006
+    second: LUNARSIGNALS cloakandleather_44
+  - first:
+      213: -687030648012671364
+    second: LUNARSIGNALS cloakandleather_45
+  - first:
+      213: -7089161444654448331
+    second: LUNARSIGNALS cloakandleather_46
+  - first:
+      213: -6935781422049921834
+    second: LUNARSIGNALS cloakandleather_47
+  - first:
+      213: 8143953322126212545
+    second: LUNARSIGNALS cloakandleather_48
+  - first:
+      213: 3991117722059784703
+    second: LUNARSIGNALS cloakandleather_49
+  - first:
+      213: -6263505747679036815
+    second: LUNARSIGNALS cloakandleather_50
+  - first:
+      213: -8357067329356367958
+    second: LUNARSIGNALS cloakandleather_51
+  - first:
+      213: 331297068782820008
+    second: LUNARSIGNALS cloakandleather_52
+  - first:
+      213: -8209671740871948416
+    second: LUNARSIGNALS cloakandleather_53
+  - first:
+      213: -4951365404116485874
+    second: LUNARSIGNALS cloakandleather_54
+  - first:
+      213: 2947667871214844110
+    second: LUNARSIGNALS cloakandleather_55
+  - first:
+      213: -6793302336117335093
+    second: LUNARSIGNALS cloakandleather_56
+  - first:
+      213: -5583847106013635677
+    second: LUNARSIGNALS cloakandleather_57
+  - first:
+      213: -2232995995368845217
+    second: LUNARSIGNALS cloakandleather_58
+  - first:
+      213: 783616653136196832
+    second: LUNARSIGNALS cloakandleather_59
+  - first:
+      213: -8656264080266108486
+    second: LUNARSIGNALS cloakandleather_60
+  - first:
+      213: 9000695332872193606
+    second: LUNARSIGNALS cloakandleather_61
+  - first:
+      213: -2632167814554029193
+    second: LUNARSIGNALS cloakandleather_62
+  - first:
+      213: 2074590653721083568
+    second: LUNARSIGNALS cloakandleather_63
+  - first:
+      213: -2316534941348884892
+    second: LUNARSIGNALS cloakandleather_64
+  - first:
+      213: 9183302196911530790
+    second: LUNARSIGNALS cloakandleather_65
+  - first:
+      213: -9098942890719261049
+    second: LUNARSIGNALS cloakandleather_66
+  - first:
+      213: -6346699595640932458
+    second: LUNARSIGNALS cloakandleather_67
+  - first:
+      213: -2010138706317044042
+    second: LUNARSIGNALS cloakandleather_68
+  - first:
+      213: -922225514384441657
+    second: LUNARSIGNALS cloakandleather_69
+  - first:
+      213: -4845701561453131878
+    second: LUNARSIGNALS cloakandleather_70
+  - first:
+      213: -1855754848993419389
+    second: LUNARSIGNALS cloakandleather_71
+  - first:
+      213: -7900451086318995832
+    second: LUNARSIGNALS cloakandleather_72
+  - first:
+      213: 1814822963440603505
+    second: LUNARSIGNALS cloakandleather_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9345f7e77a0f00800000000000000
+      internalID: 1083810498472024892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ef7263a8d7d850800000000000000
+      internalID: 6401823591574266961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41de40424de341b60800000000000000
+      internalID: 7715861142450793748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0d98c52c924dc0800000000000000
+      internalID: -3656188261377962462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f8a11064b6d3310800000000000000
+      internalID: 1386382208710381360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24c005364851700800000000000000
+      internalID: 510459694856028876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b941ea434991bd50800000000000000
+      internalID: 6751345830703221176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35162bb653bab8190800000000000000
+      internalID: -7959079670518750893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b738ce9a4fe40500800000000000000
+      internalID: 361676973867022261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26358d8f8075293b0800000000000000
+      internalID: -5507243698274413726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0420b675b8c9e620800000000000000
+      internalID: 2803992924720735246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f536b468a495a410800000000000000
+      internalID: 1487758702880896503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace7bf448b78f230800000000000000
+      internalID: 3672821304323992744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717e8f9b3bc112430800000000000000
+      internalID: 3756315122448525079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc640125037df4d0800000000000000
+      internalID: -3099194502695064321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81254f4f71a4e4690800000000000000
+      internalID: -7616068453082574312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e49a1ff30fd0720800000000000000
+      internalID: 2814169499604438604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0725fac1acb730180800000000000000
+      internalID: -9150333909891853712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5e00e82be80d00800000000000000
+      internalID: 939259083097005923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b8e9062e4589dd0800000000000000
+      internalID: -2479138263607112946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3043732ca11c154c0800000000000000
+      internalID: -4300443848490404861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbaaa617ffd3e670800000000000000
+      internalID: 8566937168519015419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab89f004693d7d170800000000000000
+      internalID: 8203257888551966906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2230245e90eaba60800000000000000
+      internalID: 7690706284309393964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf1b0e562250170800000000000000
+      internalID: 8143953322126212545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1c3202c6c436730800000000000000
+      internalID: 3991117722059784703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa9de3cde0099400800000000000000
+      internalID: 331297068782820008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c3c26c03611e80800000000000000
+      internalID: -8209671740871948416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb15eb848759b1a0800000000000000
+      internalID: -6793302336117335093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd6fd34a03282b0800000000000000
+      internalID: -5583847106013635677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1e3cd8ea5ced780800000000000000
+      internalID: -8656264080266108486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6460d5fa7b4e8ec70800000000000000
+      internalID: 9000695332872193606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e8e1f8eb30adfd0800000000000000
+      internalID: -2316534941348884892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e9ff51b4a17f70800000000000000
+      internalID: 9183302196911530790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b695bc2f7d8a14e0800000000000000
+      internalID: -2010138706317044042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce3054e7c89333f0800000000000000
+      internalID: -922225514384441657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUNARSIGNALS cloakandleather_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8867b9a6895fb5290800000000000000
+      internalID: -7900451086318995832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

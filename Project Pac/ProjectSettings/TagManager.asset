@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AudioManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Destructible
+  - Enemy
+  - Player
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 746577711
+    locked: 0
+  - name: Collectables
+    uniqueID: 2484654729
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3420340005
+    locked: 0
+  - name: Traps
+    uniqueID: 783362593
+    locked: 0
+  - name: Characters
+    uniqueID: 3307630579
+    locked: 0
+  - name: Effects
+    uniqueID: 1015207995
+    locked: 0
